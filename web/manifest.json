@@ -1,0 +1,35 @@
+{
+    "name": "fyp",
+    "short_name": "fyp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Cardio Insights Chat App is a revolutionary project aimed at enhancing cardiovascular well-being through a comprehensive mobile and web application. Developed using the Flutter framework, this app offers a dynamic and user-friendly interface, making it easier for patients to monitor and manage their heart health.  This innovative app focuses on detecting and managing various heart diseases, including stroke, angina, and heart failure, which are major risks to heart health. Powered by a sophisticated machine learning model, the app allows users to enter their health-related details and provides personalized insights based on their input.  One of the key features of Cardio Insights Chat App is its chatbot functionality, which enables users to input their health history in chronological order. This information is then analyzed to detect any potential diseases, and users can also ask related questions and seek recommendations to improve their lifestyle.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
